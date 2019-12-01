@@ -1,0 +1,10 @@
+D:\Documents\jianhuahuibian\LOL挂机刷金币\LOL挂机刷金币\bin\Debug\LOL挂机刷金币.exe.config
+D:\Documents\jianhuahuibian\LOL挂机刷金币\LOL挂机刷金币\bin\Debug\LOL挂机刷金币.exe
+D:\Documents\jianhuahuibian\LOL挂机刷金币\LOL挂机刷金币\bin\Debug\LOL挂机刷金币.pdb
+D:\Documents\jianhuahuibian\LOL挂机刷金币\LOL挂机刷金币\obj\Debug\LOL全自动.csprojAssemblyReference.cache
+D:\Documents\jianhuahuibian\LOL挂机刷金币\LOL挂机刷金币\obj\Debug\LOL挂机刷金币.Form1.resources
+D:\Documents\jianhuahuibian\LOL挂机刷金币\LOL挂机刷金币\obj\Debug\LOL挂机刷金币.Properties.Resources.resources
+D:\Documents\jianhuahuibian\LOL挂机刷金币\LOL挂机刷金币\obj\Debug\LOL全自动.csproj.GenerateResource.cache
+D:\Documents\jianhuahuibian\LOL挂机刷金币\LOL挂机刷金币\obj\Debug\LOL全自动.csproj.CoreCompileInputs.cache
+D:\Documents\jianhuahuibian\LOL挂机刷金币\LOL挂机刷金币\obj\Debug\LOL挂机刷金币.exe
+D:\Documents\jianhuahuibian\LOL挂机刷金币\LOL挂机刷金币\obj\Debug\LOL挂机刷金币.pdb
