@@ -5,6 +5,7 @@
 ![GitHub](https://img.shields.io/badge/language-C%23-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
+[![Star History Chart](https://api.star-history.com/svg?repos=LOL-FUZHU/LOL-FUZHU&type=Year)](https://star-history.com/#LOL-FUZHU/LOL-FUZHU&Year)
 
 一个基于图像识别技术的英雄联盟(LOL)挂机助手，专门用于人机对战的自动化操作。通过大漠插件实现屏幕找图和模拟操作，安全无内存修改。
 
