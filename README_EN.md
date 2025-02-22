@@ -4,6 +4,7 @@
 
 ![GitHub](https://img.shields.io/badge/language-C%23-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 An automated League of Legends (LOL) assistant based on image recognition technology, specifically designed for Co-op vs. AI matches. Utilizes DM plugin for screen detection and operation simulation, safe with no memory modifications.
 
@@ -130,3 +131,7 @@ Developed using C# WinForms with main dependencies:
 - System.Drawing
 - System.Windows.Forms
 - DM Plugin API
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

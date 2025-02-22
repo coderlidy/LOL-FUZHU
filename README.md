@@ -4,6 +4,7 @@
 
 ![GitHub](https://img.shields.io/badge/language-C%23-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 一个基于图像识别技术的英雄联盟(LOL)挂机助手，专门用于人机对战的自动化操作。通过大漠插件实现屏幕找图和模拟操作，安全无内存修改。
 
@@ -130,3 +131,7 @@ public void 鼠标移动左键单击(int X, int Y)
 - System.Drawing
 - System.Windows.Forms
 - 大漠插件API
+
+## 📄 许可证
+
+本项目基于MIT许可证开源 - 查看 [LICENSE](LICENSE) 文件了解详情
